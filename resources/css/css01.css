@@ -25,6 +25,7 @@ body{
  background-color:white;
  color:black; 
  font-family:arial,verdana,sans-serif; 
+ border-radius:10px; 
 }
 
 header{
@@ -40,6 +41,7 @@ footer{
 #idCopyrightMessage{
  background-color:black;
  color:white; 
+ border-radius:10px; 
 }
 
 /* Classes */
