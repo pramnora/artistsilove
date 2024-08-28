@@ -14,12 +14,23 @@ a:visited{color:purple;}
 
 html{
   margin:1cm;
+  background-color:black;
 }
 
 body{
  padding:1cm;
+ background-color:white;
+ color:black; 
  font-family:arial,verdana,sans-serif; 
 }
+
+header{
+ text-align:center;
+}
+
+footer{
+ text-align:right;
+}  
 
 /* ID's */
 
