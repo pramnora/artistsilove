@@ -47,10 +47,6 @@ header,footer{
  text-indent:1cm;
 } 
 
-.clsHRHalfWidth{
- width:50%;
-}
-
 .clsTimeDateStamp{
  color:red;
  font-style:italic; 
