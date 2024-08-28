@@ -1,0 +1,41 @@
+/* 
+  Stylesheet for web site: artistsilove
+  Author: Mr. Paul Ramnora
+  Email: paulramnoracoder@yahoo.com
+  Copyright: (c)2024-, Mr. Paul Ramnora. All rights reserved.
+*/
+
+/* links */
+
+a:link{color:blue;text-decoration:none;}
+a:hover{color:red;text-decoration:underline;}
+a:active{color:orange;}
+a:visited{color:purple;}
+
+html{
+  margin:1cm;
+}
+
+body{
+ padding:1cm;
+ font-family:arial,verdana,sans-serif; 
+}
+
+/* ID's */
+
+#idCopyrightMessage{
+ background-color:black;
+ color:white; 
+ border-radius:10px; 
+}
+
+/* Classes */
+
+.clsPara{
+ text-indent:1cm;
+} 
+
+.clsTimeDateStamp{
+ color:red;
+ font-style:italic; 
+}
