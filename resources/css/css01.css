@@ -29,13 +29,9 @@ body{
  border-radius:10px; 
 }
 
-header{
+header,footer{
  text-align:center;
 }
-
-footer{
- text-align:right;
-}  
 
 /* ID's */
 
