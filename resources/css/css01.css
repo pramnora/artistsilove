@@ -33,6 +33,13 @@ header,footer{
  text-align:center;
 }
 
+header{
+ width:50%;
+ margin:auto; 
+ background-black;
+ color:white;
+}  
+
 /* ID's */
 
 #idCopyrightMessage{
