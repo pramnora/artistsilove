@@ -38,6 +38,7 @@ header{
  margin:auto; 
  background-black;
  color:white;
+ border-radius:10px; 
 }  
 
 /* ID's */
