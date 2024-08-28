@@ -19,4 +19,4 @@ including: photos, videos, articles/-etc.
 
 - https://www.lowry.co.uk
 - https://www.lowry.co.uk/lowry-thedarkside.html
-- 
+
