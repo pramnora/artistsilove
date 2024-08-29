@@ -46,6 +46,7 @@ header{
 footer{
  padding:10px; 
  width:50%;
+ border:10px solid black; 
  margin:auto; 
  background-color:silver;
  color:white;
