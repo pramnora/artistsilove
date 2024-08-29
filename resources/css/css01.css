@@ -6,7 +6,7 @@
   Copyright: (c)2024-, Mr. Paul Ramnora. All rights reserved.
   ----------------------------------------
   Created: Wed 28 August 2024 15:20 PM GMT
-  Updated: Thu 29 August 2024 01:15 PM GMT
+  Updated: Thu 29 August 2024 04:42 PM GMT
 */
 
 /* links */
@@ -38,6 +38,15 @@ header{
  width:50%;
  margin:auto; 
  background-color:black;
+ color:white;
+ border-radius:10px; 
+}  
+
+footer{
+ padding:10px; 
+ width:50%;
+ margin:auto; 
+ background-color:yellow;
  color:white;
  border-radius:10px; 
 }  
